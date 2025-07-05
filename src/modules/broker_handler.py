@@ -1,5 +1,5 @@
 import os
-from smartapi import SmartConnect
+from .smartConnect import SmartConnect
 from dotenv import load_dotenv
 
 # This file will contain the generic broker module.
